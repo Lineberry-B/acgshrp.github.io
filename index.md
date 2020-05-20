@@ -23,7 +23,7 @@ href="css/list-stylesheet.css"
             </ul>
         </nav>
   </header>
-<center><img src="/art/1500x242.jpg" alt="Adams County Gold Star Honor Roll Project" width="1500" height="242"></center>
+<center><img src="art/1500x242.jpg" alt="Adams County Gold Star Honor Roll Project" width="1500" height="242"></center>
 <center><h3>Please don't think that you have lost everything in losing your son ... I feel I have done something to be proud of, something perhaps that will aid America to remain "the land of the free, the home of the brave" If my death helps end this war one minute sooner, I consider it worthwhile. Millions all over the world are fighting for what they believe in and for those they love, and thousands are dying. It is not in vain!</h3>
 <p>-From the letter of an Indiana Soldier (Adams County Gold Star Honor Roll, IWHC 1949).</p></center>
 <div class="row">
