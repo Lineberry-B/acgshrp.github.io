@@ -11,7 +11,7 @@ href="css/list-stylesheet.css"
 </head>
 <body>
   <header>
-    <a href="index.html" target="_blank"><img src="/art/Logo.JPG" alt="Adams County Gold Star Honor Roll Logo" width="150" height="200"></a>
+    <a href="index.html" target="_blank"><img src="/art/Logo." alt="Adams County Gold Star Honor Roll Logo" width="150" height="200"></a>
       <h1>The Adams County Gold Star Honor Roll Project</h1>
         <nav>
           <ul>
