@@ -23,18 +23,18 @@ href="css/list-stylesheet.css"
             </ul>
         </nav>
   </header>
-<center><img src="/Websites/Adams County Gold Star Honor Roll/art/1500x242.jpg" alt="Adams County Gold Star Honor Roll Project" width="1500" height="242"></center>
+<center><img src="/art/1500x242.jpg" alt="Adams County Gold Star Honor Roll Project" width="1500" height="242"></center>
 <center><h3>Please don't think that you have lost everything in losing your son ... I feel I have done something to be proud of, something perhaps that will aid America to remain "the land of the free, the home of the brave" If my death helps end this war one minute sooner, I consider it worthwhile. Millions all over the world are fighting for what they believe in and for those they love, and thousands are dying. It is not in vain!</h3>
 <p>-From the letter of an Indiana Soldier (Adams County Gold Star Honor Roll, IWHC 1949).</p></center>
 <div class="row">
   <div class="column left" style="background-color:#ffffff;">
     <center><h2>Service Banners</h2></center>
-    <center><p><a href="https://www.chamberofcommerce.org/usflag/history/serviceflag.html" target="_blank"><img src="/Websites/Adams County Gold Star Honor Roll/art/service banners.jfif" alt="Service Banner" width="175" height="250"></a></p></center>
+    <center><p><a href="https://www.chamberofcommerce.org/usflag/history/serviceflag.html" target="_blank"><img src="/art/service banners.jfif" alt="Service Banner" width="175" height="250"></a></p></center>
     <center><p>Service banners became popular in WWI as a way to designate that a son was serving in the military. The number of blue stars indicated how many sons (or other immediate family) were currently serving. The blue stars were replaced with gold stars if one of them died or were killed while in service to our country. For a history of the Service Flag/Banner click the service banner.</p></center>
   </div>
   <div class="column center" style="background-color:#ffffff;">
     <center><h2>History Topics Course</h2></center>
-    <center><p><a href="https://www.nadams.k12.in.us" target="_blank"><img src="/Websites/Adams County Gold Star Honor Roll/art/BHS.jpg" alt="Bellmont High School" width="350" height="250"></a></p></center>
+    <center><p><a href="https://www.nadams.k12.in.us" target="_blank"><img src="/art/BHS.jpg" alt="Bellmont High School" width="350" height="250"></a></p></center>
     <center><h3>Feel free to contact the course sponsors:</h3></center>
 	<center><p>Bryan Lineberry or Michelle Houser</p>
 	<p>Bellmont High School</p>
@@ -44,7 +44,7 @@ href="css/list-stylesheet.css"
   </div>
   <div class="column right" style="background-color: #ffffff;">
     <center><h2>Famous World War II Posters</h2>
-    <img src="/Websites/Adams County Gold Star Honor Roll/art/WWII Posters.jpg" alt="WWII Posters" width="600" height="400"></center>
+    <img src="/art/WWII Posters.jpg" alt="WWII Posters" width="600" height="400"></center>
   </div>
 </div>
 </body>
