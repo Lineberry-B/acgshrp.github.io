@@ -15,11 +15,11 @@ href="css/list-stylesheet.css"
       <h1>The Adams County Gold Star Honor Roll Project</h1>
         <nav>
           <ul>
-              <li><a href="index.html" target="_blank">Home</a></li>
-              <li><a href="list.html" target="_blank">Gold Star List</a></li>
-              <li><a href="resources.html" target="_blank">Resources</a></li>
-              <li><a href="aboutus.html" target="_blank">About Us</a></li>
-              <li><a href="contactus.html" target="_blank">Contact Us</a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="list.html">Gold Star List</a></li>
+              <li><a href="resources.html">Resources</a></li>
+              <li><a href="aboutus.html">About Us</a></li>
+              <li><a href="contactus.html">Contact Us</a></li>
             </ul>
         </nav>
   </header>
